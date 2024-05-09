@@ -11,7 +11,7 @@
             "id": "8e884321e464ff02",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
@@ -21,14 +21,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hub Layout.md",
+                "file": "Minigames/CSNO U.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hub Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hub Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hub Layout.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,21 +165,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4ca02a1398caa08",
+  "active": "8e884321e464ff02",
   "lastOpenFiles": [
-    "README.md",
-    "Minigames/Clone Wars.md",
-    "Dictionary.md",
+    "General Build Areas/Gingenstrasse.md",
+    "General Build Areas/Mt Coronox.md",
     "Projects.md",
-    "Minigames/CSNO U.md",
-    "Corny Craft.md",
     "Hub Layout.md",
+    "README.md",
+    "Minigames/Mine Storm.md",
+    "Minigames/Clone Wars.md",
+    "Minigames/CSNO U.md",
+    "Minigames/Corn Of Duty.md",
+    "Waterbrick Caverns.md",
+    "Corny Craft.md",
+    "Dictionary.md",
     "Minigames",
     "Diagram.svg.xml",
     "Diagram.svg",
     "Frost's Old Base.md",
-    "General Build Areas/Mt Coronox.md",
-    "General Build Areas/Gingenstrasse.md",
     "General Build Areas/Old Lands.md",
     "General Build Areas/Mt Coronox",
     "General Build Areas/Gingenstrasse",

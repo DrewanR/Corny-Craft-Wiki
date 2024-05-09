@@ -29,7 +29,7 @@ A one time experiment where maps from other games could be played
 
 | [[CS:NO DX DX]]               | [[Anne]], [[Frost]], and more              | Remixed from GL2                |
 | ----------------------------- | ------------------------------------------ | ------------------------------- |
-| [[Mustasnake]]                | [[Anne]], [[Frost]], [[Josh GJ]], [[Jade]] | Ported from GL2                 |
+| [[Mustasnake CSNO]]           | [[Anne]], [[Frost]], [[Josh GJ]], [[Jade]] | Ported from GL2                 |
 | [[Thinking With Portals]]     | [[Josh D]]                                 | Ported from GL2                 |
 | [[Bardport]]                  | [[Anne]]                                   | Made during the porting process |
 | [[Obligatory Water Level]]    | [[Anne]]                                   | Ported from GL2                 |
@@ -55,7 +55,7 @@ Note that most of these maps come from [[Clone Wars]]
 | [[Malachor]]        | [[Clone Wars]]                                |
 | [[Dathamir]]        | [[Clone Wars]]                                |
 | [[Kamino]]          | [[Clone Wars]]                                |
-| [[Mustafar]]        | [[Clone Wars]]                                |
+| [[Mustafar CW]]     | [[Clone Wars]]                                |
 | The original        | [[The Arena]]                                 |
 | Blue Box Ruins      | [[Lights Out]]                                |
 | Mansion             | [[Something in the Shadows]]?                 |
